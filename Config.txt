@@ -1,0 +1,3 @@
+name= YAvor
+age = 28
+hobby = mtb
